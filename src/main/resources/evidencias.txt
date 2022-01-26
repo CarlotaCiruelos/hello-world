@@ -1,0 +1,42 @@
+#Evidencias del Entorno de desarrollo:
+
+##Instalación:
+
+### Java 17:
+
+java version "17.0.1" 2021-10-19 LTS
+Java(TM) SE Runtime Environment (build 17.0.1+12-LTS-39)
+Java HotSpot(TM) 64-Bit Server VM (build 17.0.1+12-LTS-39, mixed mode, sharing)
+
+### Maven:
+
+Apache Maven 3.8.1 (05c21c65bdfed0f71a2f2ada8b84da59348c4c5d)
+Maven home: C:\Users\carlo\apache-maven-3.8.1\bin\..
+Java version: 17.0.1, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-17.0.1
+Default locale: es_ES, platform encoding: Cp1252
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+### IntelliJ:
+
+IntelliJ IDEA 2021.1.1 (Community Edition)
+Build #IC-211.7142.45, built on April 30, 2021
+Runtime version: 11.0.10+9-b1341.41 amd64
+VM: Dynamic Code Evolution 64-Bit Server VM by JetBrains s.r.o.
+Windows 10 10.0
+GC: G1 Young Generation, G1 Old Generation
+Memory: 2022M
+Cores: 8
+
+Kotlin: 211-1.4.32-release-IJ7142.27
+
+- Además de img.png
+
+## Funcionamiento:
+
+C:\Users\carlo\.jdks\openjdk-17.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.1\lib\idea_rt.jar=64833:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\carlo\IdeaProjects\hello-world\target\classes com.mycompany.app.App
+Hello World!
+
+Process finished with exit code 0
+
+Se puede ver que funciona correctamente en la imagen:img_1.png
+En esta misma carpeta
